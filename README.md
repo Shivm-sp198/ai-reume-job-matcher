@@ -29,13 +29,7 @@ and time-consuming. This project automates that comparison using
 established NLP techniques, giving a transparent, explainable score
 instead of a black-box judgment.
 
-## Motivation
-
-As a 3rd-year B.Tech (AI & Data Science) student, I wanted a project
-that (a) genuinely applies core NLP/ML concepts, (b) solves a problem
-I personally face during internship applications, and (c) is fully
-explainable — every part of the scoring logic can be traced back to
-readable code.
+ 
 
 ## Features
 
